@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+  height: 150px;
+  padding: 30px;
+
+  .icon-links {
+    border: 1px solid red;
+    height: 20px;
+    width: 200px;
+    padding: 8px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+}

@@ -1,0 +1,19 @@
+.top-section {
+  display: flex;
+  border: 1px solid red;
+  height: 500px;
+
+
+  .bio {
+    width: 70%;
+    border: 1px solid red;
+    padding: 20px;
+    margin: 30px;
+  }
+  .widget-one {
+    width: 30%;
+    border: 1px solid red;
+    padding: 20px;
+    margin: 20px;
+  }
+}

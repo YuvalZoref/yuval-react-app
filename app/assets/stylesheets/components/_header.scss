@@ -1,0 +1,13 @@
+.header-box {
+  height: 150px;
+  display: flex;
+  border: 1px solid red;
+  justify-content: space-between;
+  padding: 20px;
+  .logo-header {
+    margin: 20px;
+  }
+  .page-title-header {
+    margin: 20px;
+  }
+}
